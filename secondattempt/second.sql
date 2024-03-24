@@ -54,7 +54,7 @@ CREATE TABLE `confimedord` (
   `rate` tinyint(10) NOT NULL,
   `date` date NOT NULL,
   `status` varchar(10) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ;
 
 -- --------------------------------------------------------
 
